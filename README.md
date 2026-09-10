@@ -1,3 +1,5 @@
+# SO VERY [DEPRECATED]!!!!
+believe this is one of my first bots i ever made with JS
 # Security bot for discord server!
 > Made by m7mdy9#5718
 # packages
